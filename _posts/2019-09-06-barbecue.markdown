@@ -8,15 +8,24 @@ categories: ~
 Barbecue - the Germans really love it. And it is not jsut about eating, but also
 a social gathering.
 
-Before eating, you can play sports.
+Since you have to wait some time, before the food on the grill is ready, you
+can do some sports to pass time. For example playing frisbee. Or you can play
+with the american football. But that is not so easy. It took quite some time for
+the American students to teach the German student how to throw a football
+properly. But in the end they managed to do that fine.
 
 ![]( {{ "assets/06/barbecue/barbecue_frisbee.jpg" | absolute_url }})
 
+German sausages - as the American students said, they were a bit bigger and more
+flavourful than in the US, but not that different.
+
 ![]( {{ "assets/06/barbecue/barbecue_eating.jpg" | absolute_url }})
 
-And if everything was consumed, the people can still sit around the fire, warm
-themselfes and talk.
+And if all food is consumed, the social gathering begins. The people sit around
+the fire, talk and warm themselfes around the fire ...
 
 ![]( {{ "assets/06/barbecue/barbecue_01.jpg" | absolute_url }})
+
+... or the burning coal.
 
 ![]( {{ "assets/06/barbecue/barbecue_02.jpg" | absolute_url }})
