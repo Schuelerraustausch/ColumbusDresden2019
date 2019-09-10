@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Pizzeria"
+date:   2019-09-05 19:30:00 +0200
+categories: ~
+---
+
+## Pizzeria
+
+In the evening, we had lunch at the pizzeria L'Osteria at the Prager Straße in
+Dresden.
+
+![A few members of the group outside of the pizzeria]( {{ "assets/05/pizzeria/losteria.jpg" | absolute_url }})
+
+Everybody had fun, we talked with our new room mates for the week.
+
+![]( {{ "assets/05/pizzeria/eating.jpg" | absolute_url }})
+
+The mood was really nice, everybody was happy.
+
+![]( {{ "assets/05/pizzeria/eating_02.jpg" | absolute_url }})
