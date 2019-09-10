@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Barbecue"
+date:   2019-09-06 18:00:00 +0200
+categories: ~
+---
+
+Barbecue - the Germans really love it. And it is not jsut about eating, but also
+a social gathering.
+
+Before eating, you can play sports.
+
+![]( {{ "assets/06/barbecue/barbecue_frisbee.jpg" | absolute_url }})
+
+![]( {{ "assets/06/barbecue/barbecue_eating.jpg" | absolute_url }})
+
+And if everything was consumed, the people can still sit around the fire, warm
+themselfes and talk.
+
+![]( {{ "assets/06/barbecue/barbecue_01.jpg" | absolute_url }})
+
+![]( {{ "assets/06/barbecue/barbecue_02.jpg" | absolute_url }})
