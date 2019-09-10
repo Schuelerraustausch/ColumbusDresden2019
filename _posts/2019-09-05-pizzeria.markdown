@@ -7,15 +7,27 @@ categories: ~
 
 ## Pizzeria
 
-In the evening, we had lunch at the pizzeria L'Osteria at the Prager Straße in
-Dresden.
+In the evening, the group had lunch at the pizzeria
+[L'Osteria at the Prager Straße in Dresden](https://losteria.net/de/restaurants/restaurant/dresden-prager-carree/).
+
+This place was nice for the first lunch, since it is near the hostel and
+centered in the city - therefore a good place to start some expeditions into the
+city after the meal.
 
 ![A few members of the group outside of the pizzeria]( {{ "assets/05/pizzeria/losteria.jpg" | absolute_url }})
 
-Everybody had fun, we talked with our new room mates for the week.
+Everybody had fun there and we talked with our new room mates for the week. The
+meal was nice and the pizzas were really big.
 
-![]( {{ "assets/05/pizzeria/eating.jpg" | absolute_url }})
+![Everybody eating together]( {{ "assets/05/pizzeria/eating.jpg" | absolute_url }})
 
-The mood was really nice, everybody was happy.
+The mood was really nice, everybody was happy and so exited to experience the
+new culture.
 
-![]( {{ "assets/05/pizzeria/eating_02.jpg" | absolute_url }})
+![Students having fun]( {{ "assets/05/pizzeria/eating_02.jpg" | absolute_url }})
+
+After the lunch, the teachers continued the introduction into the program and
+set the times, where everybody had to be back at the hostel.
+
+In the evening the students explored the city and checked out the bars in the
+Dresdener Neustadt.
