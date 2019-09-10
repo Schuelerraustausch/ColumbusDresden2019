@@ -12,3 +12,6 @@ github_username: ~
 theme: minima
 plugins:
   - jekyll-feed
+
+exclude:
+  - Readme.md
