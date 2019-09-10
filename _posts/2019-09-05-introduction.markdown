@@ -8,4 +8,6 @@ categories: ~
 At tuesday afternoon, the American students first meet their German counterparts
 in the Aula of the [BSZET Dresden](https://www.bszet.de/).
 
-![]( {{ "assets/05/introduction/introduction.jpg" | absolute_url }})
+![All the students meet each other with coffee and cake]( {{ "assets/05/introduction/introduction.jpg" | absolute_url }})
+
+There was a lot to talk and get to know each other with coffe and cake.
