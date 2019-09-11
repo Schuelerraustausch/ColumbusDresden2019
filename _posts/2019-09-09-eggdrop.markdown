@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Operation Eggdrop"
+date:   2019-09-09 13:30:00 +0200
+categories: ~
+---
+
+![]({{ "assets/09/eggdrop/blackboard.jpg" | absolute_url }})
+
+![]({{ "assets/09/eggdrop/group_work.jpg" | absolute_url }})
+
+![]({{ "assets/09/eggdrop/eggdrop.jpg" | absolute_url }})
+
+![]({{ "assets/09/eggdrop/landed.jpg" | absolute_url }})
+
+![]({{ "assets/09/eggdrop/egg_presentation.jpg" | absolute_url }})
+
+![]({{ "assets/09/eggdrop/egg_parachute.jpg" | absolute_url }})
