@@ -4,6 +4,8 @@ title:  "Trip to König & Bauer Radebeul"
 date:   2019-09-10 09:00:00 +0200
 categories: ~
 ---
+On Tuesday we split into two groups, one of them visiting Koenig & Bauer AG in Radebeul, a small city right next to Dresden. Upon our arrival we were greeted by the instructor of the apprentices at this company who gave us a tour of the facility.
+Koenig & Bauer is a manufacturer of printing presses founded in 1817. The facility in Radebeul, formerly known as Planeta Radebeul, was incorporated in 1994. Today, small-, mid- and large-size offset-printing-machines are being built at the Radebeul location.
 
 ![Portrait of an American student at the Dresden main station]({{ "assets/10/koenig_bauer/portrait.jpg" | absolute_url }})
 
