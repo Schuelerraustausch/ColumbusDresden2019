@@ -4,6 +4,7 @@ title:  "Trip to König & Bauer Radebeul"
 date:   2019-09-10 09:00:00 +0200
 categories: ~
 ---
+# Koenig & Bauer AG
 
 ![Portrait of an American student at the Dresden main station]({{ "assets/10/koenig_bauer/portrait.jpg" | absolute_url }})
 
