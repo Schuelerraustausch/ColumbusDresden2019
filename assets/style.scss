@@ -8,6 +8,10 @@
   padding: 30px 10px;
 }
 
+body {
+  text-align: justify;
+}
+
 @media screen and (min-width: 800px) {
   main {
     background-image: url("{{ "assets/background.jpg" | relative_url }}");
