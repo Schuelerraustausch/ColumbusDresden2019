@@ -19,4 +19,5 @@ categories: ~
 
 ![]({{ "assets/11/theegarten_pactec/wrapping.jpg" | absolute_url }})
 
-![]({{ "assets/11/theegarten_pactec/columbus.jpg" | absolute_url }})
+![]({{ "assets/11/theegarten_pactec/columbus_01.jpg" | absolute_url }}){: .image-left }
+![]({{ "assets/11/theegarten_pactec/columbus_02.jpg" | absolute_url }}){: .image-right }

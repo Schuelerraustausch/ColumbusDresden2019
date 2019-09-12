@@ -18,12 +18,12 @@ the eggs packaging.
 After that they dropped their eggs altogether out of an window in the third floor
 of the BSZET.
 
-![]({{ "assets/09/eggdrop/eggdrop.jpg" | absolute_url }})
+![]({{ "assets/09/eggdrop/eggdrop.jpg" | absolute_url }}){: .image-left }
+![]({{ "assets/09/eggdrop/landed.jpg" | absolute_url }}){: .image-right }
 
 Most of the eggs survived the fall with out any harm. In the end only one groups
 egg got damaged by the impact.
 
-![]({{ "assets/09/eggdrop/landed.jpg" | absolute_url }})
 
 ![]({{ "assets/09/eggdrop/egg_presentation.jpg" | absolute_url }})
 
