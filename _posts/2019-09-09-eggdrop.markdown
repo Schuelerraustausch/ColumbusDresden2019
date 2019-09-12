@@ -5,14 +5,30 @@ date:   2019-09-09 13:30:00 +0200
 categories: ~
 ---
 
+After lunch we got a really exiting task - to build an enclosure around a cooked
+egg, so that it can survive a drop out of the third floor.
+
 ![]({{ "assets/09/eggdrop/blackboard.jpg" | absolute_url }})
+
+The students worked in small groups and mostly used balloons, a plastic bag and
+the eggs packaging.
 
 ![]({{ "assets/09/eggdrop/group_work.jpg" | absolute_url }})
 
+After that they dropped their eggs altogether out of an window in the third floor
+of the BSZET.
+
 ![]({{ "assets/09/eggdrop/eggdrop.jpg" | absolute_url }})
+
+Most of the eggs survived the fall with out any harm. In the end only one groups
+egg got damaged by the impact.
 
 ![]({{ "assets/09/eggdrop/landed.jpg" | absolute_url }})
 
 ![]({{ "assets/09/eggdrop/egg_presentation.jpg" | absolute_url }})
+
+There were some really creative projects, like that one with a crumple zone and
+a parachute. Another group even decided to wrap their eggs completely with
+balloons.
 
 ![]({{ "assets/09/eggdrop/egg_parachute.jpg" | absolute_url }})
