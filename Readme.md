@@ -3,6 +3,9 @@
 This project contains the blog for a school exchange between Columbus/Ohio
 and Dresden.
 
+The blog is available at the url
+[https://schuelerraustausch.github.io](https://schuelerraustausch.github.io).
+
 For this school exchange 10 students and some of their teachers travelled from
 Columubs/Ohio to Dresden.
 
