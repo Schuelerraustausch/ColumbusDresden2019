@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "VAMOS - Dresden's traffic control system"
+date:   2019-09-12 14:00:00 +0200
+categories: ~
+---
+
+![VAMOS logo]({{ "assets/12/logo.png" | absolute_url }}){: .image-left }
+Dresden is currently working on becoming a smart city through a diverse program. One of the cornerstones is VAMOS (short for Verkehrs- Analyse-Management-Optimierungs-System, traffic analysis management and optimization system).
