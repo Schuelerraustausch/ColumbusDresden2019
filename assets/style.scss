@@ -22,6 +22,9 @@ body {
 
   .wrapper {
     min-height: calc(100% - 55px - 250px);
+    // The this prevents the white hole in the middle of the background image
+    // from being visible on the screen.
+    min-width: 35%;
   }
 
   %image {
