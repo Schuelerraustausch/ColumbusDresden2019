@@ -11,4 +11,10 @@ Dresden is currently working on becoming a smart city through a diverse program.
 ## Dynamic parking guidance system
 
 ![sign with integrated parking guidance system]({{ "assets/12/vamos/parking.jpg" | absolute_url }}){: .image-left }
-For all drivers in Dresden, the parking guidance system really works wonders. Once you enter the inner city, signs show you how many parking spots are left in certain areas, or on parking slots outdoors or in shopping malls. 
+For all drivers in Dresden, the parking guidance system really works wonders. Once you enter the inner city, signs show you how many parking spots are left in certain areas, or on parking slots outdoors or in shopping malls. There are more than 50 of those digital signs to be found in the city.
+The system works by calculating how many vehicles are in a certain parking lot using induction loops or counting how many have entered and left through the gates.
+
+## Dynamic routing signs
+
+![sign with integrated parking guidance system]({{ "assets/12/vamos/signs.jpg" | absolute_url }}){: .image-left }
+Dynamic routing signs are an easy way to provide drivers with routing information adapted to the current traffic situation. The signs are 
