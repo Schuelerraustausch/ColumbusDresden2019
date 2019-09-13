@@ -20,6 +20,10 @@ body {
     padding: 0 !important;
   }
 
+  .wrapper {
+    min-height: calc(100% - 55px - 250px);
+  }
+
   %image {
     max-width: 49%;
     margin: auto;
