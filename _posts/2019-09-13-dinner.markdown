@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Farewell dinner"
+date:   2019-09-13 18:00:00 +0200
+categories: ~
+---
+
+On Friday night we had our last dinner together with the whole group, including
+the American and German teachers.
+
+The [Marché](https://www.marche-movenpick.de/de/unsere-standorte/dresden)
+in the main station was chosen as location. This restaurant offers a buffet
+with a wide variety of food and drinks. It is located in a hall alongside the
+foyer of the main station, has the buffet and some tables in the ground floor
+and additional tables for larger groups in the first floor with plenty of space,
+a nice view onto the buffet from above and good lighting from the glass roof.
+
+![]({{ "assets/13/dinner/dinner.jpg" | absolute_url }})
+
+![]({{ "assets/13/dinner/dinner_03.jpg" | absolute_url }})
+
+![]({{ "assets/13/dinner/dinner_02.jpg" | absolute_url }})
+
+After dinner, a speech was held on the success of the student exchange by the
+teachers and everybody congratulated and thanked them for the successful
+organization of the project.
+
+![]({{ "assets/13/dinner/columbus.jpg" | absolute_url }})
+
+Finally we took a picture of the two American students, two German teachers and
+two German students who already met each other in the autumn of the last year,
+when they participated in the student exchange from Dresden to Columbus, Ohio.
+
+![]({{ "assets/13/dinner/last_years_participants.jpg" | absolute_url }})
