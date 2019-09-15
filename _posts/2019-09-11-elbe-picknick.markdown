@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Picknick at the Elbe"
+title:  "Picnic at the Elbe"
 date:   2019-09-11 21:30:00 +0200
 categories: ~
 ---
 
-![]({{ "assets/11/picknick/grabing_food.jpg" | absolute_url }})
+![]({{ "assets/11/picnic/grabing_food.jpg" | absolute_url }})
 
-![]({{ "assets/11/picknick/picknick.jpg" | absolute_url }})
+![]({{ "assets/11/picnic/picnic.jpg" | absolute_url }})
 
-![]({{ "assets/11/picknick/skyline.jpg" | absolute_url }})
+![]({{ "assets/11/picnic/skyline.jpg" | absolute_url }})
 
-![]({{ "assets/11/picknick/dresden.jpg" | absolute_url }})
+![]({{ "assets/11/picnic/dresden.jpg" | absolute_url }})
 
-![]({{ "assets/11/picknick/hostel.jpg" | absolute_url }})
+![]({{ "assets/11/picnic/hostel.jpg" | absolute_url }})
