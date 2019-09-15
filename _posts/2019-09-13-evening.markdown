@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "The last evening in the city"
+date:   2019-09-13 21:00:00 +0200
+categories: ~
+---
+
+In the evening a small group of the students went out, to explore the city one
+last time together. The first stop was Barneby, a place we had been already a
+few days before. It is a bar in the Dresden Neustadt, where you can play a bunch
+of board games.
+
+Some of the games were really difficult to play with the American students
+because of the language barrier, but most of the games are also known in
+the USA, although sometimes under different names.
+
+Later we visited the GrooveStation in the Neustadt, danced a little bit and
+then played some billiard.
+
+![]({{ "assets/13/evening/dance_floor.jpg" | absolute_url }})
+
+![]({{ "assets/13/evening/group.jpg" | absolute_url }})
+
+![]({{ "assets/13/evening/billiard.jpg" | absolute_url }})
+
+![]({{ "assets/13/evening/billiard_02.jpg" | absolute_url }})
