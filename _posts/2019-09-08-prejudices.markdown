@@ -25,8 +25,10 @@ heard that was, she’d starve to death! But anyone who ordered a
 pizza at L’Osteria on the first evening can confirm, that the small portions
 were just a myth.
 
-![Students with a big pizza in Germany]({{ "assets/08/prejudices/pizza.jpg" | absolute_url }})
+[![Students with a big pizza in Germany][1]][1]
 
 Last but not least my favorite prejudice was that the Germans use their bedding
 like sleeping bags and you have to crawl into it for sleep. Some of the
 American students even tried that.
+
+  [1]: {{ "assets/08/prejudices/pizza.jpg" | absolute_url }}

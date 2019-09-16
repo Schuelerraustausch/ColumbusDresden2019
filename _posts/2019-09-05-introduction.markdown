@@ -22,7 +22,9 @@ While the German students all came from different parts of the educational
 system - mostly high school and educational training, the US students all came
 from the [Columbus State Community College](https://www.cscc.edu/).
 
-![All the students meet each other with coffee and cake]( {{ "assets/05/introduction/introduction.jpg" | absolute_url }})
+[![All the students meet each other with coffee and cake][1]][1]
 
 There was a lot to talk and get to know each other. Of course food and drinks
 were also provided with coffee and cake.
+
+  [1]: {{ "assets/05/introduction/introduction.jpg" | absolute_url }}

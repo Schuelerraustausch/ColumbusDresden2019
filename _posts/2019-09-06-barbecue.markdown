@@ -14,18 +14,23 @@ with the American football. But that is not so easy. It took quite some time for
 the American students to teach the German student how to throw a football
 properly. But in the end they managed to do that fine.
 
-![]( {{ "assets/06/barbecue/barbecue_frisbee.jpg" | absolute_url }})
+[![][1]][1]
 
 German sausages - as the American students said, they were a bit bigger and more
 flavorful than in the US, but not that different.
 
-![]( {{ "assets/06/barbecue/barbecue_eating.jpg" | absolute_url }})
+[![][2]][2]
 
 And if all food is consumed, the social gathering begins. The people sit around
 the fire, talk and warm themselves around the fire ...
 
-![]( {{ "assets/06/barbecue/barbecue_01.jpg" | absolute_url }})
+[![][3]][3]
 
 ... or the burning coal.
 
-![]( {{ "assets/06/barbecue/barbecue_02.jpg" | absolute_url }})
+[![][4]][4]
+
+  [1]: {{ "assets/06/barbecue/barbecue_frisbee.jpg" | absolute_url }}
+  [2]: {{ "assets/06/barbecue/barbecue_eating.jpg" | absolute_url }}
+  [3]: {{ "assets/06/barbecue/barbecue_01.jpg" | absolute_url }}
+  [4]: {{ "assets/06/barbecue/barbecue_02.jpg" | absolute_url }}

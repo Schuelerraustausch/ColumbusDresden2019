@@ -18,7 +18,7 @@ a few bucks each month and get almost everywhere at any time, even in the dead
 of night.
 
 
-![A few of the students at an tram stop]({{ "assets/10/public_transport/tram_stop.jpg" | absolute_url }}){: .image-left }
+[![A few of the students at an tram stop][1]][1]{: .image-left }
 You can reach almost every place in the city using public transport and
 sometimes a short walk, as there are 261 tram stops all over the city<sup style="font-style: normal;">[[3]](#source-3)</sup>.
 There is also a special program for night owls. On the so called GuteNachtLinien
@@ -26,7 +26,7 @@ There is also a special program for night owls. On the so called GuteNachtLinien
 Dresden this is really important since the city has a well developed nightlife,
 especially the Dresdner Neustadt.
 
-![Students in a tram]({{ "assets/10/public_transport/tram.jpg" | absolute_url }})
+[![Students in a tram][2]][2]
 
 Some people complain that the public transport takes too long for some routes or
 that the buses and trams are too crowed and the other passengers are too loud.
@@ -49,14 +49,14 @@ The public transport in Germany also has some rare exotic forms of transport.
 For example a solar powered public transport boat running between Lake
 Senftenberg and Lake Geierswald.
 
-![The solar powered public transport boat at a lock]({{ "assets/10/public_transport/solar_boat.jpg" | absolute_url }})
+[![The solar powered public transport boat at a lock][3]][3]
 
 Dresden also has a public transport ferry in the Johannstadt and a cable car.
 
 Germany also has many trains for travelling between the cities. For example we
 used the train **S1** on two occasions to travel to Meißen and Radebeul.
 
-![The group on the train S1]({{ "assets/10/public_transport/train.jpg" | absolute_url }})
+[![The group on the train S1][4]][4]
 
 # Sources:
 
@@ -68,3 +68,9 @@ Stadt Dresden - Kraftfahrzeuge | Statistik: [https://datausa.io/profile/geo/colu
 
 3. <small><a id="source-3"></a>
 Dresdner Verkehrsbetriebe AG - Gleise & Haltestellen: [https://www.dvb.de/de-de/die-dvb/technik/gleise-haltestellen/](https://www.dvb.de/de-de/die-dvb/technik/gleise-haltestellen/) (accessed at 12.09.2019 22:45)</small>
+
+
+  [1]: {{ "assets/10/public_transport/tram_stop.jpg" | absolute_url }}
+  [2]: {{ "assets/10/public_transport/tram.jpg" | absolute_url }}
+  [3]: {{ "assets/10/public_transport/solar_boat.jpg" | absolute_url }}
+  [4]: {{ "assets/10/public_transport/train.jpg" | absolute_url }}

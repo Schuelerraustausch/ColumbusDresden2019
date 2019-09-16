@@ -13,7 +13,7 @@ We started at 10 am with the train S1 from Dresden main station to the spa town
 Rathen. After our arrival we waited a few minutes to cross the Elbe with about
 250 other tourists on the non motorized reaction ferry of Rathen.
 
-![]({{ "assets/14/hiking/group.jpg" | absolute_url }})
+[![][1]][1]
 
 Then, after we finally crossed the Elbe, we started hiking to the Bastei Bridge.
 It is a bridge linking the rocks of the Bastei formation and was initially build
@@ -21,13 +21,13 @@ out of wood in the beginnings of 19th century. A few decades later as more and
 more tourists came there, it was rebuild out of sandstone and became on of the
 main attractions of the Saxon Switzerland.
 
-![]({{ "assets/14/hiking/bridge.jpg" | absolute_url }})
+[![][2]][2]
 
-![]({{ "assets/14/hiking/way_up.jpg" | absolute_url }}){: .image-left }
-![]({{ "assets/14/hiking/group_bastei.jpg" | absolute_url }}){: .image-right }
+[![][3]][3]{: .image-left }
+[![][4]][4]{: .image-right }
 
-![]({{ "assets/14/hiking/nas.jpg" | absolute_url }}){: .image-left }
-![]({{ "assets/14/hiking/tyler.jpg" | absolute_url }}){: .image-right }
+[![][5]][5]{: .image-left }
+[![][6]][6]{: .image-right }
 
 The American students really like the trip and being in the woods. Andy - one
 of the American teachers pointed to the conifers and said:
@@ -37,13 +37,25 @@ of the American teachers pointed to the conifers and said:
 After reaching the Bastei Bridge and enjoying the sight from up there, we walked
 back to Rathen, and crossed the Elbe again to get back to the train station.
 
-![]({{ "assets/14/hiking/group_ferry.jpg" | absolute_url }})
+[![][7]][7]
 
 When we arrived at the other side of the Elbe, we used the time before our train
 departed for a picnic at the Elbe.
 
-![]({{ "assets/14/hiking/nas_jo.jpg" | absolute_url }}){: .image-left }
-![]({{ "assets/14/hiking/picnic.jpg" | absolute_url }}){: .image-right }
+[![][8]][8]{: .image-left }
+[![][9]][9]{: .image-right }
 
-![]({{ "assets/14/hiking/reading.jpg" | absolute_url }}){: .image-left }
-![]({{ "assets/14/hiking/train.jpg" | absolute_url }}){: .image-right }
+[![][10]][10]{: .image-left }
+[![][11]][11]{: .image-right }
+
+  [1]: {{ "assets/14/hiking/group.jpg" | absolute_url }}
+  [2]: {{ "assets/14/hiking/bridge.jpg" | absolute_url }}
+  [3]: {{ "assets/14/hiking/way_up.jpg" | absolute_url }}
+  [4]: {{ "assets/14/hiking/group_bastei.jpg" | absolute_url }}
+  [5]: {{ "assets/14/hiking/nas.jpg" | absolute_url }}
+  [6]: {{ "assets/14/hiking/tyler.jpg" | absolute_url }}
+  [7]: {{ "assets/14/hiking/group_ferry.jpg" | absolute_url }}
+  [8]: {{ "assets/14/hiking/nas_jo.jpg" | absolute_url }}
+  [9]: {{ "assets/14/hiking/picnic.jpg" | absolute_url }}
+  [10]: {{ "assets/14/hiking/reading.jpg" | absolute_url }}
+  [11]: {{ "assets/14/hiking/train.jpg" | absolute_url }}

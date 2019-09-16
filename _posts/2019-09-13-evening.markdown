@@ -17,10 +17,15 @@ the USA, although sometimes under different names.
 Later we visited the GrooveStation in the Neustadt, danced a little bit and
 then played some billiard.
 
-![]({{ "assets/13/evening/dance_floor.jpg" | absolute_url }})
+[![][1]][1]
 
-![]({{ "assets/13/evening/group.jpg" | absolute_url }})
+[![][2]][2]
 
-![]({{ "assets/13/evening/billiard.jpg" | absolute_url }})
+[![][3]][3]
 
-![]({{ "assets/13/evening/billiard_02.jpg" | absolute_url }})
+[![][4]][4]
+
+  [1]: {{ "assets/13/evening/dance_floor.jpg" | absolute_url }}
+  [2]: {{ "assets/13/evening/group.jpg" | absolute_url }}
+  [3]: {{ "assets/13/evening/billiard.jpg" | absolute_url }}
+  [4]: {{ "assets/13/evening/billiard_02.jpg" | absolute_url }}

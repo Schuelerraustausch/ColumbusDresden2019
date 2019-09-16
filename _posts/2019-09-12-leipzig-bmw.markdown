@@ -13,7 +13,7 @@ It was really interesting, since the majority of the assembly process is fully
 automated using robots. Watching them doing their work so precisely is
 fascinating.
 
-![]({{ "assets/12/bmw/bmw.jpg" | absolute_url }})
+[![][1]][1]
 
 Another focus of the tour was the minimization of the plants emissions and
 usage of disposable materials during the manufacturing process.
@@ -29,7 +29,7 @@ an fire inside the plant is heavily reduced.
 Therefore are part of the plants furniture is made out of wood, for example the
 fences around the robots.
 
-![]({{ "assets/12/bmw/bmw_02.jpg" | absolute_url }})
+[![][2]][2]
 
 Most of the upper parts body of the electric cars is made out of carbon fiber
 reinforced polymer. That material is way more lighter than the same amount of
@@ -40,9 +40,14 @@ feel the difference in weight.
 The final part of the tour was a press putting the carbon composite parts into
 form.
 
-![]({{ "assets/12/bmw/bmw_tj.jpg" | absolute_url }})
+[![][3]][3]
 
 Last but not least, if you do not own a driving license or cannot afford a car
 by BMW, you might still get a BMW bicycle there.
 
-![]({{ "assets/12/bmw/bike.jpg" | absolute_url }})
+[![][4]][4]
+
+  [1]: {{ "assets/12/bmw/bmw.jpg" | absolute_url }}
+  [2]: {{ "assets/12/bmw/bmw_02.jpg" | absolute_url }}
+  [3]: {{ "assets/12/bmw/bmw_tj.jpg" | absolute_url }}
+  [4]: {{ "assets/12/bmw/bike.jpg" | absolute_url }}

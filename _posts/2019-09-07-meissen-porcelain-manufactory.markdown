@@ -12,13 +12,18 @@ the famous Meißen porcelain manufactory.
 
 We got a tour through every step of the manufactoring process.
 
-![]( {{ "assets/07/porcelain_manufactory/group.jpg" | absolute_url }})
+[![][1]][1]
 
 After that we explored the shop of the manufactory and were amazed about
 the beautiful products produced there.
 
-![]( {{ "assets/07/porcelain_manufactory/porcelain.jpg" | absolute_url }})
+[![][2]][2]
 
-![]( {{ "assets/07/porcelain_manufactory/porcelain_parot.jpg" | absolute_url }})
+[![][3]][3]
 
-![]( {{ "assets/07/porcelain_manufactory/amber.jpg" | absolute_url }})
+[![][4]][4]
+
+  [1]: {{ "assets/07/porcelain_manufactory/group.jpg" | absolute_url }}
+  [2]: {{ "assets/07/porcelain_manufactory/porcelain.jpg" | absolute_url }}
+  [3]: {{ "assets/07/porcelain_manufactory/porcelain_parot.jpg" | absolute_url }}
+  [4]: {{ "assets/07/porcelain_manufactory/amber.jpg" | absolute_url }}

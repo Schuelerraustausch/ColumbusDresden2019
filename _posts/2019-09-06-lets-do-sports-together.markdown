@@ -16,13 +16,17 @@ in many countries, including the united states.
 
 It can be play together - 1 vs 1 ...
 
-![]( {{ "assets/06/tabletennis/tabletennis_01.jpg" | absolute_url }})
+[![][1]][1]
 
 ... or with four persons - 2 vs 2.
 
-![]( {{ "assets/06/tabletennis/tabletennis_02.jpg" | absolute_url }})
+[![][2]][2]
 
 It is even possible to play it in a group with many persons. In Germany this is
 known as Chinese table tennis.
 
-![]( {{ "assets/06/tabletennis/tabletennis_03.jpg" | absolute_url }})
+[![][3]][3]
+
+  [1]: {{ "assets/06/tabletennis/tabletennis_01.jpg" | absolute_url }}
+  [2]: {{ "assets/06/tabletennis/tabletennis_02.jpg" | absolute_url }}
+  [3]: {{ "assets/06/tabletennis/tabletennis_03.jpg" | absolute_url }}

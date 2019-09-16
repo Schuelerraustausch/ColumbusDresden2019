@@ -18,45 +18,55 @@ The tour started in the basement of the school at the hydraulic labs. The two
 German students, who already had traveled to Columbus in the fall of 2018
 still remembered seeing the American counterparts at the CSCC.
 
-![Group picture in the hydraulic labs of the BSZET]({{ "assets/09/school_tour/hydraulic_labs_group.jpg" | absolute_url }})
+[![Group picture in the hydraulic labs of the BSZET][1]][1]
 
 During the tour the hydraulic labs were occupied by an vocational training
 class. That was good, it gave the students a change to watch the components of
 the laboratory in action.
 
-![Group of students in the hydraulic labs of the BSZET]({{ "assets/09/school_tour/hydraulic_labs_students.jpg" | absolute_url }})
+[![Group of students in the hydraulic labs of the BSZET][2]][2]
 
 The next part of the tour was in another building of the school, so the students
 had to pass the school yard. Certainly it was raining on that day.
 
-![Group walking to another building of the BSZET]({{ "assets/09/school_tour/outside_the_school.jpg" | absolute_url }})
+[![Group walking to another building of the BSZET][3]][3]
 
 The next stop on the tour were the automation laboratories. Undoubtedly the best
 equipped facilities of the BSZET.
 
-![Group of students in the automation lab]({{ "assets/09/school_tour/automation_lab_group.jpg" | absolute_url }})
+[![Group of students in the automation lab][4]][4]
 
-![The automation lab]({{ "assets/09/school_tour/automation_lab.jpg" | absolute_url }})
+[![The automation lab][5]][5]
 
 The final parts of the tour were the electric labs. At first we got a short
 introduction and then watched a vocational class checking some electrical
 devices.
 
-![The electric lab]({{ "assets/09/school_tour/electric_lab.jpg" | absolute_url }})
+[![The electric lab][6]][6]
 
 After the introduction, one of the German teachers guiding the tour -
 Mr. Ridsdil, gave the students a small task to solve in mixed groups of two, one
 American and one German student.
 
-![Teacher explaining the task]({{ "assets/09/school_tour/teacher.jpg" | absolute_url }})
+[![Teacher explaining the task][7]][7]
 
 Half of the assignment was written in German and the other half in English. The
 assignment begun with a theoretical introduction into the task. It was about
 measuring and visualizing the charging and discharging process of capacitors.
 
-![The electric lab]({{ "assets/09/school_tour/electric_lab_tasks.jpg" | absolute_url }})
+[![The electric lab][8]][8]
 
 Finally the student got to do some handiwork - building the circuit and the
 measuring out the capacitor.
 
-![Students doing an assembly task in the electric lab]({{ "assets/09/school_tour/electric_lab_assembly.jpg" | absolute_url }})
+[![Students doing an assembly task in the electric lab][9]][9]
+
+  [1]: {{ "assets/09/school_tour/hydraulic_labs_group.jpg" | absolute_url }}
+  [2]: {{ "assets/09/school_tour/hydraulic_labs_students.jpg" | absolute_url }}
+  [3]: {{ "assets/09/school_tour/outside_the_school.jpg" | absolute_url }}
+  [4]: {{ "assets/09/school_tour/automation_lab_group.jpg" | absolute_url }}
+  [5]: {{ "assets/09/school_tour/automation_lab.jpg" | absolute_url }}
+  [6]: {{ "assets/09/school_tour/electric_lab.jpg" | absolute_url }}
+  [7]: {{ "assets/09/school_tour/teacher.jpg" | absolute_url }}
+  [8]: {{ "assets/09/school_tour/electric_lab_tasks.jpg" | absolute_url }}
+  [9]: {{ "assets/09/school_tour/electric_lab_assembly.jpg" | absolute_url }}

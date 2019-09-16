@@ -15,20 +15,26 @@ foyer of the main station, has the buffet and some tables in the ground floor
 and additional tables for larger groups in the first floor with plenty of space,
 a nice view onto the buffet from above and good lighting from the glass roof.
 
-![]({{ "assets/13/dinner/dinner.jpg" | absolute_url }})
+[![][1]][1]
 
-![]({{ "assets/13/dinner/dinner_03.jpg" | absolute_url }})
+[![][2]][2]
 
-![]({{ "assets/13/dinner/dinner_02.jpg" | absolute_url }})
+[![][3]][3]
 
 After dinner, a speech was held on the success of the student exchange by the
 teachers and everybody congratulated and thanked them for the successful
 organization of the project.
 
-![]({{ "assets/13/dinner/columbus.jpg" | absolute_url }})
+[![][4]][4]
 
 Finally we took a picture of the two American students, two German teachers and
 two German students who already met each other in the autumn of the last year,
 when they participated in the student exchange from Dresden to Columbus, Ohio.
 
-![]({{ "assets/13/dinner/last_years_participants.jpg" | absolute_url }})
+[![][5]][5]
+
+  [1]: {{ "assets/13/dinner/dinner.jpg" | absolute_url }}
+  [2]: {{ "assets/13/dinner/dinner_03.jpg" | absolute_url }}
+  [3]: {{ "assets/13/dinner/dinner_02.jpg" | absolute_url }}
+  [4]: {{ "assets/13/dinner/columbus.jpg" | absolute_url }}
+  [5]: {{ "assets/13/dinner/last_years_participants.jpg" | absolute_url }}

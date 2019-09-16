@@ -14,13 +14,17 @@ described.
 
 Mostly we worked in the auditorium of the BSZET.
 
-![]({{ "assets/12/behind_the_scenes/working_auditorium.jpg" | absolute_url }})
+[![][1]][1]
 
 But some work was also done in the hostel, for example sorting all images each
 night before going to sleep.
 
-![]({{ "assets/12/behind_the_scenes/working_hostel.jpg" | absolute_url }})
+[![][2]][2]
 
 Even the bus trip to Leipzig was utilized to write some posts for this blog.
 
-![]({{ "assets/12/behind_the_scenes/working_bus.jpg" | absolute_url }})
+[![][3]][3]
+
+  [1]: {{ "assets/12/behind_the_scenes/working_auditorium.jpg" | absolute_url }}
+  [2]: {{ "assets/12/behind_the_scenes/working_hostel.jpg" | absolute_url }}
+  [3]: {{ "assets/12/behind_the_scenes/working_bus.jpg" | absolute_url }}

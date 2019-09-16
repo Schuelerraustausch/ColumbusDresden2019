@@ -15,25 +15,25 @@ already checked out of the hostel.
 But in the end we all got together one last time in one of the hostels rooms and
 hat a nice and funny evening.
 
-![]({{ "assets/14/farewell/group.jpg" | absolute_url }})
+[![][1]][1]
 
 We talked a little bit and one of the students brought the card game "Halt Mal
 Kurz" by the German comedian Marc Uwe Kling. Although it was difficult to play
 because of the language barrier, the Americans still got the humor and laughed
 a lot.
 
-![]({{ "assets/14/farewell/gaming.jpg" | absolute_url }})
+[![][2]][2]
 
 Later in the evening we watched the comedy short film *Kung Fury* together.
 
-![]({{ "assets/14/farewell/movie.jpg" | absolute_url }})
+[![][3]][3]
 
 At some point everybody got sleepy and the group started to split up. The
 students who left the project that night hugged the others and said with heavy
 heart goodbye.
 
-![]({{ "assets/14/farewell/dionna.jpg" | absolute_url }}){: .image-left }
-![]({{ "assets/14/farewell/farewell.jpg" | absolute_url }}){: .image-right }
+[![][4]][4]{: .image-left }
+[![][5]][5]{: .image-right }
 
 ---
 
@@ -53,3 +53,9 @@ Maybe a few attendees from this year will accompany this journey then.
 To all the participants, organizers, helpers and people who accompanied us
 voluntarily: Thank you for this wonderful time and good luck continuing this
 great project in the next years.
+
+  [1]: {{ "assets/14/farewell/group.jpg" | absolute_url }}
+  [2]: {{ "assets/14/farewell/gaming.jpg" | absolute_url }}
+  [3]: {{ "assets/14/farewell/movie.jpg" | absolute_url }}
+  [4]: {{ "assets/14/farewell/dionna.jpg" | absolute_url }}
+  [5]: {{ "assets/14/farewell/farewell.jpg" | absolute_url }}
