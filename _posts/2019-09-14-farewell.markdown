@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Farewell"
+date:   2019-09-14 21:00:00 +0200
+categories: ~
+---
+
+At some point everything comes to an end, even the best things. And so did this
+student exchange.
+
+Saturday evening was the last evening of the project. It started a bit messy,
+since everybody still had to pack their stuff and some of the German students
+already checked out of the hostel.
+
+But in the end we all got together one last time in one of the hostels rooms and
+hat a nice and funny evening.
+
+![]({{ "assets/14/farewell/group.jpg" | absolute_url }})
+
+We talked a little bit and one of the students brought the card game "Halt Mal
+Kurz" by the German comedian Marc Uwe Kling. Although it was difficult to play
+because of the language barrier, the Americans still got the humor and laughed
+a lot.
+
+![]({{ "assets/14/farewell/gaming.jpg" | absolute_url }})
+
+Later in the evening we watched the comedy short film *Kung Fury* together.
+
+![]({{ "assets/14/farewell/movie.jpg" | absolute_url }})
+
+At some point everybody got sleepy and the group started to split up. The
+students who left the project that night hugged the others and said with heavy
+heart goodbye.
+
+![]({{ "assets/14/farewell/dionna.jpg" | absolute_url }}){: .image-left }
+![]({{ "assets/14/farewell/farewell.jpg" | absolute_url }}){: .image-right }
+
+---
+
+I hope to speak for each of the participants, when I write that the project was
+highly successful and left each of us with plenty of new experiences and long
+lasting memories to this wonderful time.
+
+It was quiet an experience not only for the students, that participated for the
+first time in this project, but also for the two of us, who had already been to
+Columbus in the last year.
+
+As far as I can tell, the same applies also for the American students. We
+received a overwhelming amount of positive feedback from them and hopefully they
+look forward to welcome another German group back in Columbus and the next year.
+Maybe a few attendees from this year will accompany this journey then.
+
+To all the participants, organizers, helpers and people who accompanied us
+voluntarily: Thank you for this wonderful time and good luck continuing this
+great project in the next years.
